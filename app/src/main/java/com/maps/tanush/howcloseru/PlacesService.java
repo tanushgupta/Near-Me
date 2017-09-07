@@ -37,7 +37,7 @@ public class PlacesService {
     private static final String OUT_JSON = "";//"/json/";
 
     // KEY!
-    private static final String API_KEY = "AIzaSyA520LTRt9rqbz02oMcJqHtbjfsG8ZAltw";
+    private static final String API_KEY = "";
 
     public static ArrayList<Place> autocomplete(String input) {
         ArrayList<Place> resultList = null;

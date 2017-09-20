@@ -21,9 +21,6 @@ import java.util.ArrayList;
 
 //import com.google.android.gms.location.places.Place;
 
-/**
- * @author saxman
- */
 public class PlacesService {
     private static StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
     private static final String LOG_TAG = "ExampleApp";
